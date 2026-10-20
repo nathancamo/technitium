@@ -2,3 +2,39 @@
 # Maintained automatically by a nightly Claude scheduled task.
 # Format: one domain per line (Technitium plain-domain list).
 # Domains are added only when clearly advertising or tracking; domains Grindr needs to work are never listed.
+aarki.net
+adcolony.com
+adexp.liftoff.io
+adnxs.com
+ads.mopub.com
+api.bidmachine.io
+api.safedk.com
+appl.vn
+applovin.com
+applvn.com
+bksn.se
+bkswin.com
+cdn.doubleverify.com
+gateway.unityads.unity3d.com
+googleads.g.doubleclick.net
+i-sdk.mediation.unity3d.com
+init-mp.fyber.com
+inmobi.com
+inmobicdn.net
+inner-active.mobi
+mobfox.com
+o-sdk.mediation.unity3d.com
+openx.net
+pagead2.googlesyndication.com
+pubads.g.doubleclick.net
+pubmatic.com
+pubnative.net
+scar.unityads.unity3d.com
+sdkc.vervegroupinc.net
+smaato.net
+supersonicads.com
+t.appsflyer.com
+vertamedia.com
+vpaid.mars.video
+vungle.com
+www.googleadservices.com
