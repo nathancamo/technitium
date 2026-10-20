@@ -1,0 +1,4 @@
+# Grindr / iOS ad and tracker blocklist
+# Maintained automatically by a nightly Claude scheduled task.
+# Format: one domain per line (Technitium plain-domain list).
+# Domains are added only when clearly advertising or tracking; domains Grindr needs to work are never listed.

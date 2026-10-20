@@ -1,0 +1,4 @@
+# Domains that must NEVER be added to blocklist.txt (needed for Grindr login, chat, media and core function).
+# The nightly task reads this file and keeps it updated if it learns of new essential domains.
+grindr.com
+grindr.mobi
