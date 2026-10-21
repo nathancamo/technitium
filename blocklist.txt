@@ -38,3 +38,5 @@ vertamedia.com
 vpaid.mars.video
 vungle.com
 www.googleadservices.com
+an.facebook.com
+ads.facebook.com
