@@ -40,3 +40,15 @@ vungle.com
 www.googleadservices.com
 an.facebook.com
 ads.facebook.com
+mopub.com
+criteo.com
+rubiconproject.com
+casalemedia.com
+bidswitch.net
+moatads.com
+amazon-adsystem.com
+ads.yahoo.com
+tpc.googlesyndication.com
+securepubads.g.doubleclick.net
+adservice.google.com
+events.appsflyer.com
