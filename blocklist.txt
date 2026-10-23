@@ -52,3 +52,7 @@ tpc.googlesyndication.com
 securepubads.g.doubleclick.net
 adservice.google.com
 events.appsflyer.com
+mtgglobals.com
+mintegral.com
+ironsrc.com
+fyber.com
