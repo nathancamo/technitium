@@ -56,3 +56,6 @@ mtgglobals.com
 mintegral.com
 ironsrc.com
 fyber.com
+verve.com
+spadsync.com
+admob-gmats.uc.r.appspot.com
