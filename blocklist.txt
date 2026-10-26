@@ -60,3 +60,5 @@ verve.com
 spadsync.com
 admob-gmats.uc.r.appspot.com
 appmeasurement.com
+api.amplitude.com
+api2.amplitude.com
