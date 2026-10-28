@@ -63,3 +63,6 @@ appmeasurement.com
 api.amplitude.com
 api2.amplitude.com
 app-measurement.com
+bid.g.doubleclick.net
+tapjoy.com
+tapjoyads.com
