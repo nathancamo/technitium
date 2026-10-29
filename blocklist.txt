@@ -66,3 +66,5 @@ app-measurement.com
 bid.g.doubleclick.net
 tapjoy.com
 tapjoyads.com
+lazybumblebee.com
+rayjump.com
