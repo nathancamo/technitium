@@ -68,3 +68,5 @@ tapjoy.com
 tapjoyads.com
 lazybumblebee.com
 rayjump.com
+
+config.unityads.unity3d.com
