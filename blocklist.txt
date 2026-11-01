@@ -72,3 +72,4 @@ config.unityads.unity3d.com
 rfihub.com
 rlcdn.com
 liveramp.com
+unityads.unity3d.com
